@@ -1,2 +1,2 @@
 # ES-SI
-Repositório criado com objetivo de salvar o o projeto de ES.
+Repositório criado para o projeto de ES.
